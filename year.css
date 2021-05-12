@@ -1,0 +1,13 @@
+.bo{
+    padding: 20px;
+    background-image: url(photo.jpg);
+    background-size: cover ;    
+
+}
+.but{
+  padding: 7px 7px;
+  font-size: 14px;
+}
+.in{
+    padding: 7px 7px;
+}
